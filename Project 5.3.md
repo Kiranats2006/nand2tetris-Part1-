@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f6e22abd-dbf4-4f8d-9010-e78476467769)
+
     CHIP Computer {
 
     IN reset;
@@ -13,4 +15,3 @@
 
     }
 
-  ![image](https://github.com/user-attachments/assets/3cdcb92e-dba0-4ac8-ae4d-7a08fc118593)
